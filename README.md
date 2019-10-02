@@ -4,16 +4,16 @@ Network Lab
 
 Cycle 1
 
-1.TCP one way\
-2.TCP two way\
-3.UDP one way\
-4.UDP two way
+01.TCP one way\
+02.TCP two way\
+03.UDP one way\
+04.UDP two way
 
 Cycle 2
 
-5.Single Chat\
-6.Multi Chat\
-7.Applet Chat\
-8.Hamming Code\
-9.AES\
+05.Single Chat\
+06.Multi Chat\
+07.Applet Chat\
+08.Hamming Code\
+09.AES\
 10.RSA
