@@ -7,7 +7,7 @@ Cycle 1
 1.TCP one way\
 2.TCP two way\
 3.UDP one way\
-4.UDP two way\
+4.UDP two way
 
 Cycle 2
 
@@ -16,4 +16,4 @@ Cycle 2
 7.Applet Chat\
 8.Hamming Code\
 9.AES\
-10.RSA\
+10.RSA
